@@ -2,14 +2,6 @@
 
 A Terminal-based Notes Manager built in Bash for UNIX/Linux systems, providing a menu-driven interface to create, view, edit, search, and manage notes efficiently.
 
-## Team details
-Batch B4
-
-enroll no          name
-2401030216        Akshita Garg
-2401030212        Pranjal
-2401030220        Anmol Gautam
-
 ## project structure
 tui-notes-manager/
 │
@@ -33,12 +25,13 @@ chmod +x notes.sh
 4) run file
 ./notes.sh
 
-# how to work in vi editor
-# commands used
+## how to work in vi editor
+
 i to insert text
 press esc before exiting 
 after esc to save and quit press :wq
 
+## Display
 
 ![screenshot](image.png)
 
