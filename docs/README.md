@@ -2,8 +2,6 @@
 
 A Terminal-based Notes Manager built in Bash for UNIX/Linux systems, providing a menu-driven interface to create, view, edit, search, and manage notes efficiently.
 
-
-
 ## project structure
 tui-notes-manager/
 │
